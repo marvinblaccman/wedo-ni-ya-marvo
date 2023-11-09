@@ -1,0 +1,67 @@
+h3{
+    text-align: center;
+    font-weight: 750px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:  rgb(11, 87, 162);
+}
+h1{
+    text-align: center;
+    font-weight: 900;
+    font-family: Georgia;
+    color:  rgb(11, 95, 180);
+}
+h4{
+    text-align: center;
+}
+
+
+#sherehe{
+   border: 12px;
+   flex-direction: column;
+   align-items: normal;
+}
+.honey{
+    display: flex;
+    margin: 47px;
+    color: darkblue;
+}
+#moon{
+    float: left;
+    margin: 1px;
+    border:solid 1px;
+    border-radius: 12px;
+    flex-direction: column;
+    padding: 40px;
+    background-color: rgb(85, 161, 237);
+    
+}
+#cocktail{
+    flex-direction: column;
+    background-color: none;
+    justify-content: right;
+    margin-left: 300px;
+    text-align: justify;
+}
+#mashakura{
+    border:solid 2px;
+    flex-direction: column;
+    border-color: black;
+    background-color: rgb(85, 161, 237);
+    list-style: none;
+    justify-content: right;
+    margin-left: 50px;
+}
+body{
+    border:solid 12px;
+    background-color: rgb(115, 178, 241);
+    border-radius: 12px;
+    border-color: navy;
+}
+.keki{
+    display: flex;
+    padding: 23px;
+    color: darkblue;
+}
+li{
+    list-style: none;
+}
